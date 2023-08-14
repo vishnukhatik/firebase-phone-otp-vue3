@@ -1,0 +1,27 @@
+{
+  "name": "pill-box-admin",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.2.96",
+    "add": "^2.0.6",
+    "axios": "^1.4.0",
+    "firebase": "^9.23.0",
+    "pinia": "^2.1.4",
+    "vee-validate": "^4.10.8",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4",
+    "vuetify": "3.3.4",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "@vitejs/plugin-vue-jsx": "^3.0.1",
+    "vite": "^4.4.6"
+  }
+}
